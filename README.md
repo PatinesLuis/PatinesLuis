@@ -2,9 +2,9 @@
 
 
 📚Formado em Técnico em Informática.
-💻futuro Fullstack
-⚽Grêmio RS
-🐘 Estudando PHP
+💻futuro Fullstack.
+⚽Grêmio RS.
+🐘 Estudando PHP.
 
  <div>
   <a href="https://github.com/PatinesLuis">

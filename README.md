@@ -2,7 +2,7 @@
 
 
 📚Formado em Técnico em Informática.
-💻futuro Fullstack.
+💻futuro Desenvolvedor.
 ⚽Grêmio RS.
 🐘 Estudando PHP.
 

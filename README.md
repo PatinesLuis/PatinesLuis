@@ -3,7 +3,6 @@
 
 📚Formado em Técnico em Informática.
 💻futuro Desenvolvedor.
-⚽Grêmio RS.
 🐘 Estudando PHP.
 
  <div>

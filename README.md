@@ -4,6 +4,7 @@
 📚Formado em Técnico em Informática.
 💻futuro Desenvolvedor.
 🐘 Estudando PHP.
+ ⚠ Estudando JS.
 
  <div>
   <a href="https://github.com/PatinesLuis">

@@ -3,13 +3,12 @@
 
 📚Formado em Técnico em Informática.
 💻futuro Desenvolvedor.
-🐘 Estudando PHP.
- ⚠ Estudando JS.
+📕 2/6 Analise e desen. de sistemas
 
  <div>
   <a href="https://github.com/PatinesLuis">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patinesluis&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patinesluis&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patinesluis&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   ##
